@@ -3,7 +3,7 @@ This portfolio showcases growth analytics-related work, including
 - Cohort analysis
 - Funnel analysis
 - A/B testing
-- Causal systems
+- Causal system models
 
 Metrics showcased include:
 - CAC
