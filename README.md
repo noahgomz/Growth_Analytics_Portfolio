@@ -5,7 +5,7 @@ This portfolio showcases growth analytics-related work, including
 - A/B testing
 - Causal systems
 
-Metrics include:
+Metrics showcased include:
 - CAC
 - LTV
 - Retention
