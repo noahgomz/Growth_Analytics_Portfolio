@@ -12,8 +12,8 @@ Tools
 Method
 1. $150 ad budget
 2. Metrics: CTR and signup
-3. Units of analysis: user
-4. Randomization entity: user
+3. Unit of analysis: user
+4. Randomization unit: user
 5. Minimum detectable effect: 6% ABS on CTR; 2% ABS on signup
 6. False positive tolerance: 5%
 7. Power: 89%
