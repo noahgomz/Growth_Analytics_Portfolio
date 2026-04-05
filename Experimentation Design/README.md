@@ -16,7 +16,7 @@ Method
 4. Randomization unit: user
 5. Minimum detectable effect: 10% REL on CTR; 2% ABS on signup
 6. False positive tolerance: 5%
-7. Power: 89%
+7. Power: 90%
    
 Outcome assessment
 1. Sample ratio match checking
