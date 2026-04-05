@@ -1,4 +1,3 @@
-Tests\
 Two tests
 1. Problem-led vs Benefit-led ad copy
 2. LP offer with & without mentioning price
