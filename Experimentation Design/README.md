@@ -4,7 +4,7 @@ Two tests
 
 Tools
 1. Ad platform - GoogleAds
-2. LP - Dorik website builder
+2. LP - Carrd website builder
 3. GA4 - event logging
 4. BigQuery - storage + SQL
 5. Python - statistical significance testing
