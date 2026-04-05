@@ -10,15 +10,15 @@ Tools
 4. BigQuery - storage + SQL
 5. Python - statsig testing
 
-Method\
+Method
 1. $150 ad budget
 2. Units of analysis: CTR and signup
 3. Randomization entity: user
 4. Minimum detectable effect: 6%
 5. False positive tolerance: 5%
 6. Power: 89%
-
-Outcome assessment\
+   
+Outcome assessment
 1. Sample ratio match checking
 2. Two tailed z-score
 3. P-value < 5%
