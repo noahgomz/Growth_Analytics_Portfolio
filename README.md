@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio showcases growth analytics-related work, including
+This portfolio showcases essential growth analytics analyses, including
 - Cohort analysis
 - Funnel analysis
 - A/B testing
