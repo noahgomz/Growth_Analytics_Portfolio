@@ -7,15 +7,16 @@ Tools
 2. LP - Dorik website builder
 3. GA4 - event logging
 4. BigQuery - storage + SQL
-5. Python - statsig testing
+5. Python - statistical significance testing
 
 Method
 1. $150 ad budget
-2. Units of analysis: CTR and signup
-3. Randomization entity: user
-4. Minimum detectable effect: 6%
-5. False positive tolerance: 5%
-6. Power: 89%
+2. Metrics: CTR and signup
+3. Units of analysis: user
+4. Randomization entity: user
+5. Minimum detectable effect: 6% ABS on CTR; 2% ABS on signup
+6. False positive tolerance: 5%
+7. Power: 89%
    
 Outcome assessment
 1. Sample ratio match checking
