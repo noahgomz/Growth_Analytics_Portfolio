@@ -3,11 +3,5 @@ This portfolio showcases essential growth analytics analyses, including
 - Cohort analysis
 - Funnel analysis
 - A/B testing
+- Statistical significance scoring
 - Segmentation
-
-Metrics showcased include:
-- CAC
-- LTV
-- Retention
-- Conversion rate
-- Payback period
