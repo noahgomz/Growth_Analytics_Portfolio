@@ -1,4 +1,4 @@
-What % of new users activate within 7 days?
+What % of new users activate within 7 days?\
 Where is the biggest funnel drop-off (step-to-step)?
 Which acquisition cohort has best 30-day retention?
 Does retention differ by channel/device?
