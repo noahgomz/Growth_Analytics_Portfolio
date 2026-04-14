@@ -1,6 +1,6 @@
 # Portfolio
-This portfolio showcases essential growth analytics analyses, including
-- Cohort analysis
+This portfolio showcases skill in SQL, Python and critical thinking through
+- Cohorting
 - Funnel analysis
 - A/B testing
 - Statistical significance scoring
