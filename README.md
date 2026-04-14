@@ -4,7 +4,7 @@ This portfolio showcases skill in SQL, Python and critical thinking through
 - Funnel analysis (upcoming)
 - A/B testing (upcoming)
 - Statistical significance scoring (upcoming)
-- Segmentation (upcoming)
+- Segmentation (upcoming) and
 - Systems modeling and engineering (upcoming)
 
 It is a living repo. It is growing over time.
