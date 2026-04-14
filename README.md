@@ -7,4 +7,4 @@ This portfolio showcases skill in SQL, Python and critical thinking through
 - Segmentation (upcoming)
 - Systems modeling and engineering (upcoming)
 
-It is a living repo that evolves over time.
+It is a living repo. It is growing over time.
