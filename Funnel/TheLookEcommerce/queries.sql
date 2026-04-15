@@ -24,20 +24,32 @@ funnelCnts AS (
    */
   FROM baseTable
   GROUP BY user_id, session_id
-)
+),
 /* INFO: Raw event_type count for sanity check
 SELECT event_type, COUNT(*)
 FROM baseTable
 GROUP BY event_type
 */
-SELECT 
-  SUM(homeCount) as homeEvents,
-  SUM(deptCount) as deptEvents,
-  SUM(productCount) as prodEvents,
-  SUM(cartCount) as cartEvents,
-  SUM(purchCount) as purchEvents,
-  ROUND(SUM(deptCount) / SUM(homeCount),2) as dptPct,
-  SUM(productCount) / SUM(deptCount) as pdctPct,
-  SUM(cartCount) / SUM(productCount) as crtPct,
-  SUM(purchCount) / SUM(cartCount) as pchPct
-FROM funnelCnts
+inlinePctCalc AS (
+  SELECT 
+    SUM(homeCount) as homeEvents,
+    SUM(deptCount) as deptEvents,
+    SUM(productCount) as prodEvents,
+    SUM(cartCount) as cartEvents,
+    SUM(purchCount) as purchEvents,
+    ROUND(SUM(deptCount) / SUM(homeCount),2) as dptPct,
+    SUM(productCount) / SUM(deptCount) as pdctPct,
+    SUM(cartCount) / SUM(productCount) as crtPct,
+    SUM(purchCount) / SUM(cartCount) as pchPct
+  FROM funnelCnts
+)
+SELECT 'home' as stage, 1 as stage_order, SUM(homeCount) as session_count FROM funnelCnts
+UNION ALL
+SELECT 'department', 2, SUM(deptCount) FROM funnelCnts
+UNION ALL
+SELECT 'product', 3, SUM(productCount) FROM funnelCnts
+UNION ALL
+SELECT 'cart', 4, SUM(cartCount) FROM funnelCnts
+UNION ALL
+SELECT 'purchase', 5, SUM(purchCount) FROM funnelCnts
+ORDER BY stage_order
