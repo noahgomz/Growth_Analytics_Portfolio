@@ -1,5 +1,5 @@
-bump%Threshold,BumpPct
-25,0.83
-50,0.63
-75,0.39
-100,0.24
+bumpThreshold,BumpPct
+25%,0.83
+50%,0.63
+75%,0.39
+100%,0.24
