@@ -1,0 +1,5 @@
+cat,clearance_flag,crimes,total
+Theft,No,73749,85985
+Theft,Yes,12236,85985
+Violent/Other,No,18435,25573
+Violent/Other,Yes,7138,25573
