@@ -1,3 +1,3 @@
-"Ad_name","sum(Impressions)","sum(Reach)","nonAdditiveReach[MetaSUM]","sum(LPViews)"
-"Benefit Led",5369,5151,4411,172
-"Problem Led",5141,4929,4126,107
+"Ad_name","sum(Impressions)","sum(Reach)","nonAdditiveReach[MetaSUM]","sum(LPViews)","conversionRt"
+"Problem Led",5141,4929,4126,107,0.026
+"Benefit Led",5369,5151,4411,172,0.039
