@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio showcases skill in SQL, Python and critical thinking through
+This portfolio demonstrates applied analytics using Python & SQL across six domains:
 - [Cohorting](https://github.com/noahgomz/Growth_Analytics_Portfolio/tree/master/Cohort)
 - [Funnel analysis](https://github.com/noahgomz/Growth_Analytics_Portfolio/tree/master/Funnel)
 - [A/B testing & statistical significance scoring](https://github.com/noahgomz/Growth_Analytics_Portfolio/tree/master/AB%20Testing)
