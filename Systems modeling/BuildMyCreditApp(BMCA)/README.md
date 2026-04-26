@@ -1,14 +1,12 @@
 # [BuildMyCreditApp](https://buildmycreditapp.com/) — Credit Decision Engine
 
-A systems dynamics engine that models a user's credit profile as a set of measurable account attributes, then prescribes and simulates the optimal sequence of monthly credit actions to move that profile toward high-achiever benchmarks — given real budget and risk constraints.
-
-It asks the question:
+A systems dynamics engine that asks the question:
 
 **Given your current profile, budget, and risk tolerance —— what's the best sequence of actions (pay, open, close, use) to maximize your score over time, adjusting as your actions change your profile?**
 
 **Results**: a pilot on 3 users showed **45% improvement in credit profile completeness** and **20% average score increase**.
 
-Built in JavaScript (Node.js) with a Firebase cloud function layer for app integration. The core engine runs independently of Firebase as a pure logic library.
+Built in JavaScript (Node.js) with a Firebase cloud function layer for FlutterFlow app integration. The core engine runs independently of Firebase as a pure logic library.
 
 ![Offer](https://github.com/noahgomz/Growth_Analytics_Portfolio/blob/master/Systems%20modeling/BuildMyCreditApp(BMCA)/OfferSnapshot.png)
 
