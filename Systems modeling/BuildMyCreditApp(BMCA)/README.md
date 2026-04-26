@@ -41,7 +41,7 @@ Credit Report Upload
         ↓
 [ Cloud Functions ] — Firebase wrapper exposing engine to app (functions/cf)
         ↓
-[ Firebase / App ] — database, user state, front-end triggers
+[ Firebase / FlutterFlow App ] — database, user state, front-end triggers
 ```
 
 ---
