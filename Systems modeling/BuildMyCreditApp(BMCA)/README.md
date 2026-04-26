@@ -120,4 +120,4 @@ functions/
 - **JavaScript / Node.js** — core engine logic
 - **SQL** — scoring logic and data structuring
 - **Firebase** — cloud functions, NoSQL database, real-time triggers
-- **FlutterFlow** - Frontend interface for AppStore/GooglePlay UI components
+- **FlutterFlow** - frontend interface for AppStore/GooglePlay UI components
