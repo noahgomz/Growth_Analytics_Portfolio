@@ -2,7 +2,11 @@
 
 A systems dynamics engine that models a user's credit profile as a set of measurable account attributes, then prescribes and simulates the optimal sequence of monthly credit actions to move that profile toward high-achiever benchmarks — given real budget and risk constraints.
 
-A pilot on 3 users showed **45% improvement in credit profile completeness** and **20% average score increase**.
+It asks the question:
+
+**Given your current profile, budget, and risk tolerance —— what's the best sequence of actions (pay, open, close, use) to maximize your score over time, adjusting as your actions change your profile?**
+
+**Results**: a pilot on 3 users showed **45% improvement in credit profile completeness** and **20% average score increase**.
 
 Built in JavaScript (Node.js) with a Firebase cloud function layer for app integration. The core engine runs independently of Firebase as a pure logic library.
 
@@ -13,8 +17,6 @@ Built in JavaScript (Node.js) with a Firebase cloud function layer for app integ
 ## What It Does
 
 Most credit advice is static: "pay down utilization" or "don't open too many accounts." This engine is dynamic. It treats a user's credit profile as a system of interdependent variables and asks:
-
-**Given your current profile, budget, and risk tolerance —— what's the best sequence of actions (pay, open, close, use) to maximize your score over time, adjusting as your actions change your profile?**
 
 The engine:
 - Ingests a user's real credit report (parsed from upload)
