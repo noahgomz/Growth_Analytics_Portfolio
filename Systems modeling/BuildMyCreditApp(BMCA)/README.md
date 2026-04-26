@@ -14,7 +14,7 @@ Built in JavaScript (Node.js) with a Firebase cloud function layer for app integ
 
 Most credit advice is static: "pay down utilization" or "don't open too many accounts." This engine is dynamic. It treats a user's credit profile as a system of interdependent variables and asks:
 
-**1. Given your current profile, budget, and risk tolerance...**
+**1. Given your current profile, budget, and risk tolerance...**</br>
 **2. ...what's the best sequence of actions (pay, open, close, use) to maximize your score over time?**
 
 The engine:
