@@ -4,7 +4,7 @@ This portfolio showcases skill in SQL, Python and critical thinking through
 - [Funnel analysis](https://github.com/noahgomz/Growth_Analytics_Portfolio/tree/master/Funnel)
 - [A/B testing & statistical significance scoring](https://github.com/noahgomz/Growth_Analytics_Portfolio/tree/master/AB%20Testing)
 - [Experiment design](https://github.com/noahgomz/Growth_Analytics_Portfolio/tree/master/Experiment%20Design)
-- Segmentation (upcoming) and
+- [Segmentation](https://github.com/noahgomz/Growth_Analytics_Portfolio/tree/master/Segmenting)
 - Systems modeling (upcoming)
 
 It is a living repo and is growing over time.
