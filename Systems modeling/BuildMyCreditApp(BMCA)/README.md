@@ -4,7 +4,7 @@ A systems dynamics engine that models a user's credit profile as a set of measur
 
 Built in JavaScript (Node.js) with a Firebase cloud function layer for app integration. The core engine runs independently of Firebase as a pure logic library.
 
-[Offer](https://github.com/noahgomz/Growth_Analytics_Portfolio/blob/master/Systems%20modeling/BuildMyCreditApp(BMCA)/OfferSnapshot.png)
+![Offer](https://github.com/noahgomz/Growth_Analytics_Portfolio/blob/master/Systems%20modeling/BuildMyCreditApp(BMCA)/OfferSnapshot.png)
 
 ---
 
