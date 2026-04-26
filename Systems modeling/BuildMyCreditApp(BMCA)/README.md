@@ -1,4 +1,4 @@
-# BuildMyCreditApp — Credit Decision Engine
+# [BuildMyCreditApp](https://buildmycreditapp.com/) — Credit Decision Engine
 
 A systems dynamics engine that models a user's credit profile as a set of measurable account attributes, then prescribes and simulates the optimal sequence of monthly credit actions to move that profile toward high-achiever benchmarks — given real budget and risk constraints.
 
