@@ -16,7 +16,7 @@ Built in JavaScript (Node.js) with a Firebase cloud function layer for app integ
 
 ## What It Does
 
-Most credit advice is static: "pay down utilization" or "don't open too many accounts." This engine is dynamic. It treats a user's credit profile as a system of interdependent variables and asks:
+Most credit advice is static: "pay down utilization" or "don't open too many accounts." This engine is dynamic. It treats a user's credit profile as a system of interdependent variables and iterates after each action in a period (1 month) and at the end of that period. 
 
 The engine:
 - Ingests a user's real credit report (parsed from upload)
@@ -24,7 +24,7 @@ The engine:
 - Aggregates account-level attributes into global FICO-factor metrics
 - Prescribes optimal actions each month using proprietary prioritization logic
 - Simulates the effect of those actions on the profile, month by month
-- Outputs a ranked action plan with projected score trajectory
+- Outputs a ranked action plan with projected profile trajectory
 
 ---
 
