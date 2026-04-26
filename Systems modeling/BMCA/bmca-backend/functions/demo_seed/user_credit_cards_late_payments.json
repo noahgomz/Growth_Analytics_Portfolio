@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "build-my-credit-app-3am7ox",
+    "resourcePath": [
+      "user_credit_cards_late_payments"
+    ],
+    "recursive": false,
+    "creationTime": 1769950457,
+    "app": "firefoo"
+  },
+  "data": {
+    "0ZPZuVodf6iLPFveWPvl": {
+      "DOFD": {
+        "__time__": "2020-02-01T00:00:00.000Z"
+      },
+      "amount": 127,
+      "cardRef": {
+        "__ref__": "user_credit_cards/GeWb0RV3xZ9yBqiy2x8L"
+      },
+      "lender": "Syncb/HomeGoods CLOSED",
+      "severity": "30",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isPaid": true,
+      "sentToCollections": false,
+      "liveVersion": null,
+      "lateDisambiguousParentAccountString": null,
+      "updatedAt": null,
+      "createdAt": null,
+      "isPlaceholder": null,
+      "chargedOff": null
+    },
+    "nOTpnYT9IkeRhMmnmb75": {
+      "DOFD": {
+        "__time__": "2024-09-15T04:00:00.000Z"
+      },
+      "amount": 0,
+      "cardRef": {
+        "__ref__": "user_credit_cards/foJ2FiOUHzOszXUDrEBI"
+      },
+      "isPaid": true,
+      "lender": "CapitalOne",
+      "severity": "Collection",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "sentToCollections": true,
+      "liveVersion": null,
+      "lateDisambiguousParentAccountString": null,
+      "updatedAt": null,
+      "createdAt": null,
+      "isPlaceholder": null,
+      "chargedOff": null
+    }
+  }
+}

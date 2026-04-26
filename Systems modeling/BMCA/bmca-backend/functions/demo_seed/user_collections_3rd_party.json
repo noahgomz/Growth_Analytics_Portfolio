@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "build-my-credit-app-3am7ox",
+    "resourcePath": [
+      "user_collections_3rd_party"
+    ],
+    "recursive": false,
+    "creationTime": 1769950517,
+    "app": "firefoo"
+  },
+  "data": {
+    "kESMJ714brjMZ29YmPqM": {
+      "DOFD": {
+        "__time__": "2022-10-05T04:00:00.000Z"
+      },
+      "amount": 420,
+      "collectionsAgency": "SouthEast Recovery",
+      "datePaid": {
+        "__time__": "2023-01-09T05:00:00.000Z"
+      },
+      "fellOffReport": false,
+      "isPlaceholder": false,
+      "originalProvider": "City Broadband",
+      "severity": "Collection",
+      "type": "Telecom",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isPaid": true,
+      "updatedAt": null
+    },
+    "kZg75al7WGXQ47tEtVPB": {
+      "DOFD": {
+        "__time__": "2023-06-22T22:00:00.000Z"
+      },
+      "amount": 1500,
+      "collectionsAgency": "QuantumTrue",
+      "datePaid": {
+        "__time__": "2024-06-22T22:00:00.000Z"
+      },
+      "fellOffReport": false,
+      "isPlaceholder": false,
+      "originalProvider": "Florida P&L",
+      "severity": "Collection",
+      "type": "Utility",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isPaid": true,
+      "updatedAt": null
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "build-my-credit-app-3am7ox",
+    "resourcePath": [
+      "user_hard_pulls"
+    ],
+    "recursive": false,
+    "creationTime": 1769950531,
+    "app": "firefoo"
+  },
+  "data": {
+    "Dc7xv6WTZRk4yJpgD5oh": {
+      "accountType": "Credit Card",
+      "dateOfRequest": {
+        "__time__": "2025-12-15T05:00:00.000Z"
+      },
+      "debtType": "Revolving",
+      "lender": "BigCompanyCards",
+      "productName": "Secured Credit Card",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "updatedAt": null,
+      "createdAt": null
+    },
+    "kpCT2mUqHpK5F6EP70Hp": {
+      "accountType": "Credit Card",
+      "dateOfRequest": {
+        "__time__": "2024-11-10T05:00:00.000Z"
+      },
+      "debtType": "Revolving",
+      "lender": "Discover Bank",
+      "productName": "Discover it Cash Back",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "updatedAt": null,
+      "createdAt": null
+    },
+    "m8pdjV3LznUA22hSzHTd": {
+      "accountType": "Auto",
+      "dateOfRequest": {
+        "__time__": "2023-06-01T04:00:00.000Z"
+      },
+      "debtType": "Installment",
+      "lender": "Toyota Financial Services",
+      "productName": "Auto Loan",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "updatedAt": null,
+      "createdAt": null
+    }
+  }
+}

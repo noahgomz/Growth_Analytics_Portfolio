@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "build-my-credit-app-3am7ox",
+    "resourcePath": [
+      "user_credit_cards"
+    ],
+    "recursive": false,
+    "creationTime": 1769950447,
+    "app": "firefoo"
+  },
+  "data": {
+    "EwVJBsHBKeCUwXOfRCN5": {
+      "accountNumber": "XXXXXXXXXXXX8888",
+      "apr": 16.99,
+      "commercialName": "Credit Union Visa",
+      "creditLimit": 5700,
+      "dateIssued": {
+        "__time__": "2015-08-01T04:00:00.000Z"
+      },
+      "dayOfMonthDue": 3,
+      "isCFA": false,
+      "isOpen": true,
+      "lender": "Truist Bank",
+      "minimumPayment": 0,
+      "totalBalance": 0,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isAnnualFee": false,
+      "liveVersion": null,
+      "dateLastUsed": null,
+      "endDatePromoAPR_Purchases": null,
+      "updatedAt": null,
+      "isCurrent": null,
+      "PromoAPR_BalTransfer": null,
+      "endDatePromoAPR_BalTransfer": null,
+      "hasPromoAPR_BalTransfer": null,
+      "dateClosed": null,
+      "rewardType": null,
+      "createdAt": null,
+      "annualFeeAmount": null,
+      "hasPromoAPR_Purchases": null,
+      "isSecured": null,
+      "PromoAPR_Purchases": null
+    },
+    "GeWb0RV3xZ9yBqiy2x8L": {
+      "accountNumber": "XXXXXXXXXXXX6666",
+      "apr": 31.49,
+      "commercialName": "Store Card - HomeGoods",
+      "creditLimit": 2000,
+      "dateClosed": {
+        "__time__": "2025-11-24T20:50:57.252Z"
+      },
+      "dateIssued": {
+        "__time__": "2018-04-01T04:00:00.000Z"
+      },
+      "isCFA": false,
+      "isCurrent": true,
+      "isOpen": true,
+      "lender": "Syncb/HomeGoods",
+      "minimumPayment": 0,
+      "totalBalance": 0,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isAnnualFee": false,
+      "liveVersion": null,
+      "dateLastUsed": null,
+      "endDatePromoAPR_Purchases": null,
+      "updatedAt": null,
+      "dayOfMonthDue": null,
+      "PromoAPR_BalTransfer": null,
+      "endDatePromoAPR_BalTransfer": null,
+      "hasPromoAPR_BalTransfer": null,
+      "rewardType": null,
+      "createdAt": null,
+      "annualFeeAmount": null,
+      "hasPromoAPR_Purchases": null,
+      "isSecured": null,
+      "PromoAPR_Purchases": null
+    },
+    "LduAbabVJpY0AwhOxI4i": {
+      "accountNumber": "XXXXXXXXXXXX2222",
+      "apr": 20.24,
+      "commercialName": "Chase Freedom Unlimited",
+      "creditLimit": 16000,
+      "dateIssued": {
+        "__time__": "2013-09-03T04:00:00.000Z"
+      },
+      "dayOfMonthDue": 7,
+      "isCFA": false,
+      "isOpen": true,
+      "lender": "JPMCB Card Services",
+      "minimumPayment": 0,
+      "totalBalance": 0,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isAnnualFee": false,
+      "liveVersion": null,
+      "dateLastUsed": null,
+      "endDatePromoAPR_Purchases": null,
+      "updatedAt": null,
+      "isCurrent": null,
+      "PromoAPR_BalTransfer": null,
+      "endDatePromoAPR_BalTransfer": null,
+      "hasPromoAPR_BalTransfer": null,
+      "dateClosed": null,
+      "rewardType": null,
+      "createdAt": null,
+      "annualFeeAmount": null,
+      "hasPromoAPR_Purchases": null,
+      "isSecured": null,
+      "PromoAPR_Purchases": null
+    },
+    "YrjNQP7UMSjO4RKP20MS": {
+      "accountNumber": "XXXXXXXXXXXX3333",
+      "apr": 18.99,
+      "commercialName": "Apple Card",
+      "creditLimit": 9000,
+      "dateIssued": {
+        "__time__": "2022-11-01T04:00:00.000Z"
+      },
+      "dayOfMonthDue": 28,
+      "isCFA": false,
+      "isOpen": true,
+      "lender": "Goldman Sachs Bank USA",
+      "minimumPayment": 3.7,
+      "totalBalance": 37,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isAnnualFee": false,
+      "liveVersion": null,
+      "dateLastUsed": null,
+      "endDatePromoAPR_Purchases": null,
+      "updatedAt": null,
+      "isCurrent": null,
+      "PromoAPR_BalTransfer": null,
+      "endDatePromoAPR_BalTransfer": null,
+      "hasPromoAPR_BalTransfer": null,
+      "dateClosed": null,
+      "rewardType": null,
+      "createdAt": null,
+      "annualFeeAmount": null,
+      "hasPromoAPR_Purchases": null,
+      "isSecured": null,
+      "PromoAPR_Purchases": null
+    },
+    "aobmOJHaxbgBmqqd7PpO": {
+      "accountNumber": "XXXXXXXXXXXX5555",
+      "apr": 23.99,
+      "commercialName": "Travel Rewards Plus",
+      "creditLimit": 12000,
+      "dateIssued": {
+        "__time__": "2019-02-10T05:00:00.000Z"
+      },
+      "dayOfMonthDue": 11,
+      "isCFA": false,
+      "isOpen": true,
+      "lender": "CapitalOne",
+      "minimumPayment": 97.5,
+      "totalBalance": 975,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isAnnualFee": true,
+      "annualFeeAmount": 95,
+      "liveVersion": null,
+      "dateLastUsed": null,
+      "endDatePromoAPR_Purchases": null,
+      "updatedAt": null,
+      "isCurrent": null,
+      "PromoAPR_BalTransfer": null,
+      "endDatePromoAPR_BalTransfer": null,
+      "hasPromoAPR_BalTransfer": null,
+      "dateClosed": null,
+      "rewardType": null,
+      "createdAt": null,
+      "hasPromoAPR_Purchases": null,
+      "isSecured": null,
+      "PromoAPR_Purchases": null
+    },
+    "foJ2FiOUHzOszXUDrEBI": {
+      "accountNumber": "XXXXXXXXXXXX1111",
+      "apr": 27.49,
+      "commercialName": "Capital One Quicksilver",
+      "creditLimit": 4500,
+      "dateIssued": {
+        "__time__": "2021-05-12T04:00:00.000Z"
+      },
+      "dayOfMonthDue": 18,
+      "isCFA": false,
+      "isCurrent": true,
+      "isOpen": true,
+      "lender": "Capital One",
+      "minimumPayment": 412.5,
+      "totalBalance": 4125,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isAnnualFee": false,
+      "liveVersion": null,
+      "dateLastUsed": null,
+      "endDatePromoAPR_Purchases": null,
+      "updatedAt": null,
+      "PromoAPR_BalTransfer": null,
+      "endDatePromoAPR_BalTransfer": null,
+      "hasPromoAPR_BalTransfer": null,
+      "dateClosed": null,
+      "rewardType": null,
+      "createdAt": null,
+      "annualFeeAmount": null,
+      "hasPromoAPR_Purchases": null,
+      "isSecured": null,
+      "PromoAPR_Purchases": null
+    },
+    "oFHA8zORwVCiSsjwV2gY": {
+      "accountNumber": "XXXXXXXXXXXX7777",
+      "apr": 19.49,
+      "commercialName": "Discover it Cash Back",
+      "creditLimit": 6500,
+      "dateIssued": {
+        "__time__": "2016-07-20T04:00:00.000Z"
+      },
+      "dayOfMonthDue": 25,
+      "isCFA": false,
+      "isOpen": true,
+      "lender": "Discover Bank",
+      "minimumPayment": 180,
+      "totalBalance": 1800,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isAnnualFee": false,
+      "liveVersion": null,
+      "dateLastUsed": null,
+      "endDatePromoAPR_Purchases": null,
+      "updatedAt": null,
+      "isCurrent": null,
+      "PromoAPR_BalTransfer": null,
+      "endDatePromoAPR_BalTransfer": null,
+      "hasPromoAPR_BalTransfer": null,
+      "dateClosed": null,
+      "rewardType": null,
+      "createdAt": null,
+      "annualFeeAmount": null,
+      "hasPromoAPR_Purchases": null,
+      "isSecured": null,
+      "PromoAPR_Purchases": null
+    },
+    "rvq8DOGi5fLWONxKfQuQ": {
+      "accountNumber": "XXXXXXXXXXXX4444",
+      "apr": 29.99,
+      "commercialName": "Starter Secured",
+      "creditLimit": 800,
+      "dateIssued": {
+        "__time__": "2025-12-15T05:00:00.000Z"
+      },
+      "dayOfMonthDue": 21,
+      "isCFA": false,
+      "isOpen": true,
+      "lender": "BigCompanyCards",
+      "minimumPayment": 26,
+      "totalBalance": 260,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isAnnualFee": false,
+      "liveVersion": null,
+      "dateLastUsed": null,
+      "endDatePromoAPR_Purchases": null,
+      "updatedAt": null,
+      "isCurrent": null,
+      "PromoAPR_BalTransfer": null,
+      "endDatePromoAPR_BalTransfer": null,
+      "hasPromoAPR_BalTransfer": null,
+      "dateClosed": null,
+      "rewardType": null,
+      "createdAt": null,
+      "annualFeeAmount": null,
+      "hasPromoAPR_Purchases": null,
+      "isSecured": null,
+      "PromoAPR_Purchases": null
+    }
+  }
+}

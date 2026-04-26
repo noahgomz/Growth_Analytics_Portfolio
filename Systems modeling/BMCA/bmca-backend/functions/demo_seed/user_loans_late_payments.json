@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "build-my-credit-app-3am7ox",
+    "resourcePath": [
+      "user_loans_late_payments"
+    ],
+    "recursive": false,
+    "creationTime": 1769950502,
+    "app": "firefoo"
+  },
+  "data": {
+    "55dGutRRCTrFVhpdyjOO": {
+      "DOFD": {
+        "__time__": "2021-03-14T23:00:00.000Z"
+      },
+      "amount": 0,
+      "chargedOff": false,
+      "isPaid": true,
+      "loanRef": {
+        "__ref__": "user_loans/wlqIsjcGdbdGCMfpieHE"
+      },
+      "severity": "60",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "sentToCollections": false,
+      "liveVersion": null,
+      "updatedAt": null,
+      "isPlaceholder": null,
+      "datePaid": null
+    },
+    "hUpwu729xCiqBEFU3Iot": {
+      "DOFD": {
+        "__time__": "2024-06-16T22:00:00.000Z"
+      },
+      "amount": 234.21,
+      "chargedOff": false,
+      "loanRef": {
+        "__ref__": "user_loans/bLUbMoinxtN13tFrI9cW"
+      },
+      "severity": "30",
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "isPaid": true,
+      "sentToCollections": false,
+      "liveVersion": null,
+      "updatedAt": null,
+      "isPlaceholder": null,
+      "datePaid": null
+    }
+  }
+}

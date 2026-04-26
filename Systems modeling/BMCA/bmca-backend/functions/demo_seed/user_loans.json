@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "build-my-credit-app-3am7ox",
+    "resourcePath": [
+      "user_loans"
+    ],
+    "recursive": false,
+    "creationTime": 1769950471,
+    "app": "firefoo"
+  },
+  "data": {
+    "ZqwUz2NMVlYGnkjTR5hV": {
+      "accountNumber": "XXXXXXXXXXXX9001",
+      "apr": 5.38,
+      "balance": 134332.51,
+      "commercialName": "Mortgage - Primary",
+      "dateIssued": {
+        "__time__": "2019-07-24T04:00:00.000Z"
+      },
+      "dayOfMonthDue": 11,
+      "isCFA": true,
+      "isOpen": true,
+      "isSecured": true,
+      "lender": "BofA",
+      "loanType": "Mortgage",
+      "monthlyPayment": 2000,
+      "principalOriginal": 500000,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "liveVersion": null,
+      "updatedAt": null,
+      "createdAt": null,
+      "isCurrent": true
+    },
+    "bLUbMoinxtN13tFrI9cW": {
+      "accountNumber": "XXXXXXXXXXXX9002",
+      "apr": 6.49,
+      "balance": 9800,
+      "commercialName": "Auto Loan",
+      "dateIssued": {
+        "__time__": "2023-06-05T04:00:00.000Z"
+      },
+      "dayOfMonthDue": 19,
+      "isCFA": false,
+      "isCurrent": true,
+      "isOpen": true,
+      "isSecured": true,
+      "lender": "Toyota Financial Services",
+      "loanType": "Auto",
+      "monthlyPayment": 410,
+      "principalOriginal": 18500,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "liveVersion": null,
+      "updatedAt": null,
+      "createdAt": null
+    },
+    "wlqIsjcGdbdGCMfpieHE": {
+      "accountNumber": "XXXXXXXXXXXX9003",
+      "apr": 4.99,
+      "balance": 0,
+      "commercialName": "Student Loan - Paid",
+      "dateIssued": {
+        "__time__": "2015-06-16T22:00:00.000Z"
+      },
+      "dayOfMonthDue": 12,
+      "isCFA": false,
+      "isCurrent": true,
+      "isOpen": true,
+      "isSecured": false,
+      "lender": "Truist",
+      "loanType": "Student",
+      "monthlyPayment": 0,
+      "principalOriginal": 32000,
+      "userRef": {
+        "__ref__": "users/r5yvGRcnfudPJyrA2ogvIxT7Ld62"
+      },
+      "__collections__": {},
+      "liveVersion": null,
+      "updatedAt": null,
+      "createdAt": null
+    }
+  }
+}
