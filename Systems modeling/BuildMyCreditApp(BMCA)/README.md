@@ -120,4 +120,3 @@ functions/
 - **JavaScript / Node.js** — core engine logic
 - **SQL** — scoring logic and data structuring
 - **Firebase** — cloud functions, NoSQL database, real-time triggers
-- **LLM-assisted development** — database schema and cloud function architecture built by chaining structured logic prompts through LLMs into working JavaScript
