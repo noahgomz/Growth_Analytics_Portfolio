@@ -65,3 +65,7 @@ They do, however, tell us that the probability of an observation (an average, a 
 Everyone would scoff at the idea that they don't really know what they know. That their idea of causality is wrong. And in some ways, that is true. When cause is about basic needs or directly observable, the need for testing is minimal. Because repeated observation with quick results exposes us to other possible causes of observed effects. When our dog barks at the window, and if we've seen him do this 100 times when either the mailman, another dog, or a lizard passes in front of the widow, we know that the cause is very likely one of those things.
 
 Expertise is this same pattern applied to skill. An expert is exposed repeatedly to the causes of effects that she effectively intuits the possible causes of effects... and how to change them. We all have natural aptitudes for different causal relationships. Some of us are painters, some speakers, some engineers. But we are all doing the same thing: establishing intuition around the causes of effects in our domain.
+
+## Keywords
+AA testing
+geolift testing
