@@ -46,4 +46,15 @@ What should we fix to stop that squeaking noise on the motor?
 Stakes make us take causality more seriously.
 What cause will truly produce the effect I desire?
 
-## Causality everywhere
+## Falsifiability
+True causality is only possible in theory.
+In the real world it is nearly impossible to isolate all possible causes of an effect.
+Repeated falsifiability is the closest proxy to causality that we have.
+Falisifiability means that when x is present, y is present AND when x is absent, y is absent.
+Repeated, by many people, many times.
+It also means that when observing the presence of x, we must not observe the presence of any other cause.
+For example, does variable z appear sometimes with x, and could it also cause y?
+
+## Statistics as savior
+Since true causality is not possible in the real world, we can rely on statistical signifiance and probability.
+All statistical signifance tells use one thing: based on the varaince of a dataset and the size if the sample, is the liklihood that an observed effect is due to chance very high?
