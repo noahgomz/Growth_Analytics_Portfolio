@@ -13,13 +13,13 @@ Uncertainty, or not knowing the cause of something, is the source of virtually a
 "What caused this recession?"
 "Why do humans harm each other?"
 
-## Causal tension rises when goals extend beyond basic needs, and when causes become less directly observable (feedback)
+## Causal tension rises when goals extend beyond basic needs, and when causes become less directly observable (feedback), and when the causal chain (see next section) is complex
 Hunger -- caused by lack of food -- easy <br>
 Acquire food -- caused by driving to store —- easy <br>
 Car accident —- caused by rain that blocked vision that prevented braking on time —- medium difficulty <br>
 Economic recession —- unknown causes —- difficult <br>
 
-## Causality has 5 sequences
+## Causality has 5 chains
 A - C
 
 A - B - C
@@ -58,3 +58,10 @@ For example, does variable z appear sometimes with x, and could it also cause y?
 ## Statistics as savior
 Since true causality is not possible in the real world, we can rely on statistical signifiance and probability.
 All statistical signifance tells use one thing: based on the varaince of a dataset and the size if the sample, is the liklihood that an observed effect is due to chance very high?
+Statistics do not deal with causality, because they do not establish falsifiable relationships. Only controlled experiments do that.
+They do, however, tell us that the probability of an observation (an average, a difference in averages) is due to chance.
+
+## Expertise
+Everyone would scoff at the idea that they don't really know what they know. That their idea of causality is wrong. And in some ways, that is true. When cause is about basic needs or directly observable, the need for testing is minimal. Because repeated observation with quick results exposes us to other possible causes of observed effects. When our dog barks at the window, and if we've seen him do this 100 times when either the mailman, another dog, or a lizard passes in front of the widow, we know that the cause is very likely one of those things.
+
+Expertise is this same pattern applied to skill. An expert is exposed repeatedly to the causes of effects that she effectively intuits the possible causes of effects... and how to change them. We all have natural aptitudes for different causal relationships. Some of us are painters, some speakers, some engineers. But we are all doing the same thing: establishing intuition around the causes of effects in our domain.
