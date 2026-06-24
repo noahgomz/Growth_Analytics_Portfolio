@@ -15,9 +15,9 @@ Uncertainty, or not knowing the cause of something, is the source of virtually a
 
 ## Causal tension rises when goals extend beyond basic needs, and when causes become less directly observable (feedback)
 Hunger -- caused by lack of food -- easy <br>
-Acquire food -- caused by driving to store —- easy
-Car accident —- caused by rain that blocked vision that prevented braking on time —- medium difficulty
-Economic recession —- unknown causes —- difficult
+Acquire food -- caused by driving to store —- easy <br>
+Car accident —- caused by rain that blocked vision that prevented braking on time —- medium difficulty <br>
+Economic recession —- unknown causes —- difficult <br>
 
 ## Causality has 5 sequences
 A - C
