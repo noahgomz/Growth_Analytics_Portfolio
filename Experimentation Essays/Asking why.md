@@ -19,7 +19,7 @@ Acquire food -- caused by driving to store —- easy
 Car accident —- caused by rain that blocked vision that prevented braking on time —- medium difficulty
 Economic recession —- unknown causes —- difficult
 
-## Causality has three core components
+## Causality has 5 sequences
 A - C
 
 A - B - C
