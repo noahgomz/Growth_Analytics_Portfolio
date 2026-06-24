@@ -21,9 +21,13 @@ Economic recession —- unknown causes —- difficult
 
 ## Causality has three core components
 A - C
+
 A - B - C
+
 (A + B) - C
+
 A - [B - A] - C
+
 A - B - [C - A] - C
 
 ## Responsibility
